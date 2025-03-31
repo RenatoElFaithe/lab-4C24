@@ -1,2 +1,1 @@
-README.md 
-Hola como estas loquito
+Actualización e bloggg de notas
